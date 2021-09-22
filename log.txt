@@ -1,0 +1,719 @@
+Fri Sep 17 2021 10:36:08 GMT+0200 (centraleuropeisk sommartid)--undefined 
+Fri Sep 17 2021 12:09:12 GMT+0200 (centraleuropeisk sommartid)--inside create method in todoController.js: 
+Fri Sep 17 2021 12:09:12 GMT+0200 (centraleuropeisk sommartid)--Topic created: 
+{
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  _id: new ObjectId("61446948f2d96ecedbadf36d")
+} 
+Fri Sep 17 2021 12:09:12 GMT+0200 (centraleuropeisk sommartid)--Topic saved in database: 
+{
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  __v: 0
+} 
+Fri Sep 17 2021 12:12:40 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+} 
+================================================================================================
+
+Fri Sep 17 2021 12:20:22 GMT+0200 (centraleuropeisk sommartid)--[object Object]:Please enter Topic name. 
+============================================================================================
+
+Fri Sep 17 2021 12:56:58 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+} 
+Fri Sep 17 2021 13:07:42 GMT+0200 (centraleuropeisk sommartid)--400: Please enter Topic name. 
+Fri Sep 17 2021 13:08:27 GMT+0200 (centraleuropeisk sommartid)--Topic created: 
+{
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  _id: new ObjectId("6144772b2d3d09e8d544b781")
+} 
+Fri Sep 17 2021 13:08:27 GMT+0200 (centraleuropeisk sommartid)--Topic saved in database: 
+{
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  __v: 0
+} 
+Fri Sep 17 2021 13:09:08 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 13:11:18 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 15:35:28 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 15:36:20 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 16:25:02 GMT+0200 (centraleuropeisk sommartid)--Get topic data from database for id: 
+{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 16:27:39 GMT+0200 (centraleuropeisk sommartid)--Get operation successful 
+Fri Sep 17 2021 16:27:44 GMT+0200 (centraleuropeisk sommartid)--Get topic data from database for id: 
+{
+  _id: new ObjectId("6144772b2d3d09e8d544b781"),
+  id: '703',
+  name: 'Group C post1',
+  status: 'WIP',
+  __v: 0
+} 
+Fri Sep 17 2021 16:30:30 GMT+0200 (centraleuropeisk sommartid)--Get operation successful 
+Fri Sep 17 2021 16:30:50 GMT+0200 (centraleuropeisk sommartid)--Get topic data from database for id: 6144772b2d3d09e8d544b781
+ 
+Fri Sep 17 2021 16:31:23 GMT+0200 (centraleuropeisk sommartid)--Get topic data from database for id: 6144772b2d3d09e8d544b781
+ 
+Fri Sep 17 2021 16:55:23 GMT+0200 (centraleuropeisk sommartid)--Get topic data from database for id: 6144772b2d3d09e8d544b781
+ 
+Fri Sep 17 2021 16:59:06 GMT+0200 (centraleuropeisk sommartid)--Get operation successful 
+Fri Sep 17 2021 16:59:23 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 6144772b2d3d09e8d544b781
+ 
+Fri Sep 17 2021 17:44:50 GMT+0200 (centraleuropeisk sommartid)--Successfully updated topic for id: 6144772b2d3d09e8d544b781 
+Fri Sep 17 2021 17:45:12 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 6144772b2d3d09e8d544b781
+ 
+Fri Sep 17 2021 23:42:18 GMT+0200 (centraleuropeisk sommartid)--Successfully deleted topic id: 6144772b2d3d09e8d544b781 
+Fri Sep 17 2021 23:49:00 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+} 
+Sat Sep 18 2021 01:27:12 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f72"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f73"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f74"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f75"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f76"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f77"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f79"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7a"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f78"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7b"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+} 
+Sat Sep 18 2021 01:27:48 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445017a4005afcc7fb8a43"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61445220e7bdd366a61d8786"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f72"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f73"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f74"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f75"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f76"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f77"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f79"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7a"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f78"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7b"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+} 
+Sat Sep 18 2021 01:28:11 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 6145243dbd02b899be8d3f79 
+Mon Sep 20 2021 14:21:09 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f72"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f73"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f74"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f75"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f76"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f77"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f79"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7a"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f78"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7b"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88291"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88292"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88293"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88294"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88295"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88296"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88297"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88298"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88299"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c8829a"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+} 
+Mon Sep 20 2021 14:21:36 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 6145243dbd02b899be8d3f79 
+Mon Sep 20 2021 14:22:03 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 6145243dbd02b899be8d3f79 
+Mon Sep 20 2021 14:25:54 GMT+0200 (centraleuropeisk sommartid)--Get all topics from database: 
+{
+  _id: new ObjectId("61444f0a668cd86a76d1934c"),
+  id: '700',
+  name: 'ecosystem',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61446948f2d96ecedbadf36d"),
+  id: '701',
+  name: 'Nature',
+  status: 'To start',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f72"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f73"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f74"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f75"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f76"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f77"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f79"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7a"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f78"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("6145243dbd02b899be8d3f7b"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88291"),
+  id: '1',
+  name: 'responsive',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88292"),
+  id: '2',
+  name: 'client-server',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88293"),
+  id: '3',
+  name: 'concept',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88294"),
+  id: '4',
+  name: 'project',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88295"),
+  id: '5',
+  name: 'array',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88296"),
+  id: '6',
+  name: 'optimal',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88297"),
+  id: '7',
+  name: 'knowledge user',
+  status: 'new',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88298"),
+  id: '8',
+  name: 'client-server',
+  status: 'done',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c88299"),
+  id: '9',
+  name: 'Future-proofed',
+  status: 'ongoing',
+  __v: 0
+},{
+  _id: new ObjectId("61487cb02eaf4713c7c8829a"),
+  id: '10',
+  name: 'Total',
+  status: 'done',
+  __v: 0
+} 
+Mon Sep 20 2021 14:26:17 GMT+0200 (centraleuropeisk sommartid)--Successfully retrieved topic data from database for id: 61487cb02eaf4713c7c88293 

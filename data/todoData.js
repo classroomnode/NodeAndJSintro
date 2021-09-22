@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   { id: 1, name: 'responsive', status: 'ongoing' },
   { id: 2, name: 'client-server', status: 'ongoing' },
   { id: 3, name: 'concept', status: 'new' },
@@ -999,4 +999,6 @@ export const data = [
   { id: 998, name: 'artificial intelligence', status: 'ongoing' },
   { id: 999, name: 'didactic', status: 'new' },
   { id: 1000, name: 'empowering', status: 'done' },
-]
+];
+
+export default data;

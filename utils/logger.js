@@ -1,19 +1,22 @@
-import fs from 'fs'
+import fs from "fs"
 
-const file = 'log.txt'
+export default (() => {
+	const file = "log.txt"
+	function log(message) {
+		console.log(message)
+		fs.appendFileSync(file, `${Date().toString()}--${message} \n`)
+	}
 
-export default function log(message) {
-  console.log(message)
-  fs.appendFileSync(file, `${Date().toString()}--${message} \n`)
-}
+	function error(message, error) {
+		console.error(error, message)
+		fs.appendFileSync(file, `${Date().toString()}--${message} \n`)
+	}
 
-export function error(message, error) {
-  console.error(error, message)
-  fs.appendFileSync(file, `${Date().toString()}--${message} \n`)
-}
+	function printLog() {
+		const fileBuffer = fs.readFileSync(file)
 
-export function printLog() {
-  const fileBuffer = fs.readFileSync(file)
+		console.log(fileBuffer.toString())
+	}
 
-  console.log(fileBuffer.toString())
-}
+	return { log, error, printLog }
+})()

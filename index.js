@@ -5,7 +5,10 @@ import dbConfig from './config/dbconfig.js'
 import mongoose from 'mongoose'
 /*---------------Added by Pushpak----------------*/ 
 import expressConfig from './config/expressConfig.js'
+import dbImportService from './services/dbImportService.js'
 import router from './routes/router.js'
+//import data from './data/todoData.js'
+
 
 const app = express()
 
@@ -16,9 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 // parse requests of content-type - application/json
 app.use(bodyParser.json())
 
-// Configuring the database
-//const dbConfig = require('./config/config.js');
-//const mongoose = require('mongoose');
+
 
 mongoose.Promise = global.Promise;
 
@@ -31,6 +32,11 @@ mongoose.connect(dbConfig, {
    console.log('Could not connect to the database. Exiting now...', err);
    process.exit();
 });
+
+// bulk import data
+console.log('Call import data');
+dbImportService.importTopicData;
+console.log('data import successful');
 
 /*---------------Added by Pushpak----------------*/ 
 
